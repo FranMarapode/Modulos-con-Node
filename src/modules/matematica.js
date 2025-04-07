@@ -8,4 +8,3 @@ const calcularCircunferencia = (radio) => {
 }
 
 module.exports = {suma, resta, multiplicacion, calcularCircunferencia};
-
