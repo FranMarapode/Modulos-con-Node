@@ -9,6 +9,7 @@
     "ej02":   "node ej/ej02.js",
     "ej03":   "node ej/ej03.js",
     "ej04":   "node ej/ej04.js",
+    "ej05":   "node ej/ej05.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Francisco Marapode y Joaquin Ordoñez",
