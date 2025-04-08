@@ -1,6 +1,6 @@
 const obtenerMoneda = require('../functions/moneda.js');
 
-obtenerMoneda("Brazil")
+obtenerMoneda("Argentina")
     .then(moneda => {
         console.log("Moneda:", moneda);
     })
